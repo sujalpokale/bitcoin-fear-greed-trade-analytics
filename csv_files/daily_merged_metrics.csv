@@ -1,0 +1,2 @@
+date,closed_pnl_sum,closed_pnl_mean,closed_pnl_median,size_tokens_sum,size_tokens_mean,size_tokens_median,execution_price_median,leverage_mean,leverage_median,trade_count,wins,win_rate,classification,sentiment_num,sentiment_lag_1,sentiment_lag_2,sentiment_lag_3,sentiment_lag_5,sentiment_lag_7
+1970-01-01,10296958.943436,48.74900079269401,0.0,976565644.278293,4623.364978782208,32.0,18.28,0.9998101264240539,1.0,211224,86869,0.4112648183918494,,,,,,,
